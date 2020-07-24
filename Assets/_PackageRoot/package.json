@@ -1,7 +1,7 @@
 {
-    "name": "your.own.package",
-    "displayName": "Your own package",
+    "name": "extensions.unity.ui",
+    "displayName": "Unity UI extensions",
     "version": "1.0.0",
     "unity": "2019.2",
-    "description": "Some description"
+    "description": "Helper classes for Unity UI"
 }
