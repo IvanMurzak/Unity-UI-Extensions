@@ -1,10 +1,19 @@
 {
-    "name": "extensions.unity.ui",
-    "displayName": "Unity UI extensions",
-    "version": "0.0.1",
-    "unity": "2019.2",
-    "description": "Helper classes for Unity UI",
-    "dependencies": {
-      "extensions.unity.base": "https://github.com/IvanMurzak/Unity-Extensions.git#upm"
+  "name": "extensions.unity.ui",
+  "displayName": "Unity UI extensions",
+  "version": "0.0.1",
+  "unity": "2019.2",
+  "description": "Helper classes for Unity UI",
+  "dependencies": {
+    "extensions.unity.base": "1.0.6"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Extensions",
+      "url": "https://github.com/IvanMurzak/Unity-Extensions",
+      "scopes": [
+  	    "extensions.unity.base"
+      ]
     }
+  ]
 }
