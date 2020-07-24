@@ -10,7 +10,7 @@
   "scopedRegistries": [
     {
       "name": "Extensions",
-      "url": "https://github.com/IvanMurzak/Unity-Extensions",
+      "url": "https://github.com/IvanMurzak/Unity-Extensions.git",
       "scopes": [
   	    "extensions"
       ]
