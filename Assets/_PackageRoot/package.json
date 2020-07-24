@@ -12,7 +12,7 @@
       "name": "Extensions",
       "url": "https://github.com/IvanMurzak/Unity-Extensions",
       "scopes": [
-  	    "extensions.unity.base"
+  	    "extensions"
       ]
     }
   ]
