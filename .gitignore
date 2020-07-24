@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/Demigiant/
+Assets/Plugins/
+Assets/Resources/
+Assets/Resources.meta
+Assets/Plugins.meta
+ProjectSettings/
+Assets/Demigiant.meta
