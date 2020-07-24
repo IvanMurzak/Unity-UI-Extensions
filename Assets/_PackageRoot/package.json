@@ -3,5 +3,8 @@
     "displayName": "Unity UI extensions",
     "version": "0.0.1",
     "unity": "2019.2",
-    "description": "Helper classes for Unity UI"
+    "description": "Helper classes for Unity UI",
+    "dependencies": {
+      "extensions.unity.base": "https://github.com/IvanMurzak/Unity-Extensions.git#upm"
+    }
 }
