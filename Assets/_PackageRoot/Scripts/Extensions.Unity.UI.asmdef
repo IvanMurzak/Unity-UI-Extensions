@@ -1,14 +1,12 @@
 {
     "name": "Extensions.Unity.UI",
+    "rootNamespace": "",
     "references": [
         "UniRx",
         "Extensions.Unity",
-        "Extensions.UniRx",
         "Unity.TextMeshPro",
-        "DOTweenPro.Scripts",
-        "Zenject"
+        "DOTween.Modules"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -16,5 +14,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }

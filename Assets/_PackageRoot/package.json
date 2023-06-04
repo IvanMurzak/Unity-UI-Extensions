@@ -1,7 +1,7 @@
 {
   "name": "extensions.unity.ui",
   "displayName": "Unity UI extensions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "2019.2",
   "description": "Helper classes for Unity UI",
   "dependencies": {
@@ -9,10 +9,10 @@
   },
   "scopedRegistries": [
     {
-      "name": "Extensions",
-      "url": "https://github.com/IvanMurzak/Unity-Extensions.git",
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
       "scopes": [
-  	    "extensions"
+        "extensions.unity.base"
       ]
     }
   ]
