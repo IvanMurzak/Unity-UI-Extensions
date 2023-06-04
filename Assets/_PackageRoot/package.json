@@ -5,14 +5,16 @@
   "unity": "2019.2",
   "description": "Helper classes for Unity UI",
   "dependencies": {
-    "extensions.unity.base": "1.0.6"
+    "extensions.unity.base": "1.0.6",
+    "com.neuecc.unirx": "7.1.0"
   },
   "scopedRegistries": [
     {
       "name": "package.openupm.com",
       "url": "https://package.openupm.com",
       "scopes": [
-        "extensions.unity.base"
+        "extensions.unity.base",        
+        "com.neuecc.unirx"
       ]
     }
   ]
